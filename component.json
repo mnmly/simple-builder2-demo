@@ -1,0 +1,6 @@
+{
+  "name": "lookup-relative-bug",
+  "dependencies": {
+    "visionmedia/debug": "0.7.4"
+  }
+}
