@@ -1,5 +1,5 @@
 {
-  "name": "simple-builder2",
+  "name": "simple-builder2-demo",
   "dependencies": {
     "visionmedia/debug": "0.7.4"
   },

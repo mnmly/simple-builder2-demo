@@ -1,4 +1,4 @@
-# simple-builder2
+# simple-builder2-demo
 
 This is a simple `component` builder demonstrating the use of [builder2.js](http://github.com/component/builder2.js).
 

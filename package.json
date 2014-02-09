@@ -1,6 +1,6 @@
 {
-  "name": "lookup-relative-bug",
-  "version": "0.0.0",
+  "name": "simple-builder2-demo",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "mkdirp": "~0.3.5",
-    "component-builder2": "0.1.0",
-    "component-resolver": "0.0.7",
+    "component-builder2": "*",
+    "component-resolver": "*",
     "co": "~3.0.2",
     "debug": "~0.7.4",
     "builder-myth": "git://github.com/mnmly/builder-myth",
