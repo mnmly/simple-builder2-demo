@@ -1,0 +1,9 @@
+{
+  "name": "demo",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "demo.css"
+  ]
+}
