@@ -2,7 +2,7 @@
 
 This is a simple `component` builder demonstrating the use of [builder2.js](http://github.com/component/builder2.js).
 
-To simply build run:
+To build the sample.
 
 ```
   $ ./bin/build
