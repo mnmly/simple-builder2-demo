@@ -1,0 +1,18 @@
+#!/usr/bin/env node --harmony
+
+/**
+ * Module Dependencies
+ */
+
+var build = require('./../');
+var co = require('co');
+var params = {
+  params: 'build',
+  copy: true
+};
+
+/**
+ * Build
+ */
+
+co(build(params))();
